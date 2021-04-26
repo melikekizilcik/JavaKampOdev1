@@ -1,2 +1,2 @@
 # JavaKampOdev1
-Java Kamp 2. gün ödevi
+Java Kamp 2. gün ödevi: Kodlama.io simülasyonu
